@@ -1,0 +1,24 @@
+{
+  "name": "muz-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananaworker/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Muzafar Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bananaworker/palindrome/issues"
+  },
+  "homepage": "https://github.com/bananaworker/palindrome#readme"
+}
