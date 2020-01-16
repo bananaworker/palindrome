@@ -28,5 +28,10 @@ describe("Phrase", function() {
       let punctuatedPalindrome = new Phrase("Madam, I'm Adam.");
       assert.strictEqual(punctuatedPalindrome.letters(), "MadamImAdam");
     })
+
+    it("should return empty string on no match", function() {
+      let noMatch = new Phrase("1234");
+      assert.strictEqual(noMatch.letters(), "");
+    })
   })
 });
