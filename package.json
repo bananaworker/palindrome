@@ -1,6 +1,6 @@
 {
   "name": "muz-palindrome",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Palindrome detector",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bananaworker/palindrome/issues"
   },
-  "homepage": "https://github.com/bananaworker/palindrome#readme"
+  "homepage": "https://github.com/bananaworker/palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
